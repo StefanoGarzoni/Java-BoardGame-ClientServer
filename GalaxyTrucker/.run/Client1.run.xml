@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Client1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="it.polimi.ingsw.client.Client" />
+    <module name="PSP14" />
+    <option name="PROGRAM_PARAMETERS" value="127.0.0.1 1025" />
+    <option name="VM_PARAMETERS" value="--add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.time=ALL-UNNAMED" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

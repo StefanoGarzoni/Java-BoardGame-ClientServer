@@ -1,0 +1,26 @@
+[
+  {
+    "tileType" : "StartingCabin",
+    "color" : "blue",
+    "fileName" : "GT-new_tiles_16_for web33.jpg",
+    "connectorsList" : [3, 3, 3, 3]
+  },
+  {
+    "tileType" : "StartingCabin",
+    "color" : "green",
+    "fileName" : "GT-new_tiles_16_for web34.jpg",
+    "connectorsList" : [3, 3, 3, 3]
+  },
+  {
+    "tileType" : "StartingCabin",
+    "color" : "red",
+    "fileName" : "GT-new_tiles_16_for web52.jpg",
+    "connectorsList" : [3, 3, 3, 3]
+  },
+  {
+    "tileType" : "StartingCabin",
+    "color" : "yellow",
+    "fileName" : "GT-new_tiles_16_for web61.jpg",
+    "connectorsList" : [3, 3, 3, 3]
+  }
+]

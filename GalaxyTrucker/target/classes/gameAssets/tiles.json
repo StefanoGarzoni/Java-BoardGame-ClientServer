@@ -1,0 +1,912 @@
+[
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web18.jpg",
+    "connectorsList" : [2, 1, 3, 0],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web19.jpg",
+    "connectorsList" : [2, 1, 3, 1],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web20.jpg",
+    "connectorsList" : [2, 3, 0, 1],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web21.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web22.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web23.jpg",
+    "connectorsList" : [0, 1, 0, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web24.jpg",
+    "connectorsList" : [0, 2, 0, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web25.jpg",
+    "connectorsList" : [2, 1, 2, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web26.jpg",
+    "connectorsList" : [3, 0, 0, 3],
+    "capacity" : 2,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web27.jpg",
+    "connectorsList" : [0, 0, 0, 1],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web28.jpg",
+    "connectorsList" : [1, 0, 1, 0],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web29.jpg",
+    "connectorsList" : [0, 0, 0, 2],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web30.jpg",
+    "connectorsList" : [2, 0, 2, 0],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web31.jpg",
+    "connectorsList" : [1, 0, 2, 1],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web32.jpg",
+    "connectorsList" : [2, 0, 1, 2],
+    "capacity" : 3,
+    "isSpecial" : false
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web62.jpg",
+    "connectorsList" : [0, 2, 1, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web63.jpg",
+    "connectorsList" : [0, 3, 0, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web64.jpg",
+    "connectorsList" : [1, 1, 1, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web65.jpg",
+    "connectorsList" : [2, 1, 0, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web66.jpg",
+    "connectorsList" : [2, 2, 2, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web67.jpg",
+    "connectorsList" : [3, 0, 0, 3],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web68.jpg",
+    "connectorsList" : [0, 0, 0, 1],
+    "capacity" : 2,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web69.jpg",
+    "connectorsList" : [0, 2, 0, 1],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+  {
+    "tileType" : "Cargo",
+    "fileName" : "GT-new_tiles_16_for web70.jpg",
+    "connectorsList" : [0, 0, 0, 2],
+    "capacity" : 1,
+    "isSpecial" : true
+  },
+
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web101.jpg",
+    "connectorsList" : [0,0,1,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web102.jpg",
+    "connectorsList" : [0,0,1,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web103.jpg",
+    "connectorsList" : [0,0,2,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web104.jpg",
+    "connectorsList" : [0,0,2,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web105.jpg",
+    "connectorsList" : [0,1,0,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web106.jpg",
+    "connectorsList" : [0,1,2,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web107.jpg",
+    "connectorsList" : [0,1,3,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web108.jpg",
+    "connectorsList" : [0,2,0,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web109.jpg",
+    "connectorsList" : [0,2,1,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web110.jpg",
+    "connectorsList" : [0,2,3,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web111.jpg",
+    "connectorsList" : [0,3,1,0],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web112.jpg",
+    "connectorsList" : [0,0,0,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web113.jpg",
+    "connectorsList" : [0,0,2,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web114.jpg",
+    "connectorsList" : [0,0,3,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web115.jpg",
+    "connectorsList" : [0,1,1,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web116.jpg",
+    "connectorsList" : [0,2,3,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web117.jpg",
+    "connectorsList" : [0,3,0,1],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web118.jpg",
+    "connectorsList" : [0,0,0,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web119.jpg",
+    "connectorsList" : [0,0,1,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web120.jpg",
+    "connectorsList" : [0,0,3,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web121.jpg",
+    "connectorsList" : [0,1,0,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web122.jpg",
+    "connectorsList" : [0,1,3,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web123.jpg",
+    "connectorsList" : [0,2,2,2],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web124.jpg",
+    "connectorsList" : [0,0,2,3],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web125.jpg",
+    "connectorsList" : [0,2,0,3],
+    "doubleCannon" : false
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web126.jpg",
+    "connectorsList" : [0,0,1,0],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web127.jpg",
+    "connectorsList" : [0,0,2,0],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web128.jpg",
+    "connectorsList" : [0,1,3,0],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web129.jpg",
+    "connectorsList" : [0,3,0,0],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web130.jpg",
+    "connectorsList" : [0,3,2,0],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web131.jpg",
+    "connectorsList" : [0,1,2,1],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web132.jpg",
+    "connectorsList" : [0,2,0,1],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web133.jpg",
+    "connectorsList" : [0,0,3,2],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web134.jpg",
+    "connectorsList" : [0,2,1,2],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web135.jpg",
+    "connectorsList" : [0,0,0,3],
+    "doubleCannon" : true
+  },
+  {
+    "tileType" : "Cannon",
+    "fileName" : "GT-new_tiles_16_for web136.jpg",
+    "connectorsList" : [0,0,1,3],
+    "doubleCannon" : true
+  },
+
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web.jpg",
+    "connectorsList" : [3, 1, 2, 0],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web2.jpg",
+    "connectorsList" : [3, 2, 0, 0],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web3.jpg",
+    "connectorsList" : [3, 2, 1, 0],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web4.jpg",
+    "connectorsList" : [2, 1, 2, 1],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web5.jpg",
+    "connectorsList" : [3, 0, 0, 1],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web6.jpg",
+    "connectorsList" : [3, 1, 1, 1],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web7.jpg",
+    "connectorsList" : [3, 2, 2, 2],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web8.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web9.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web10.jpg",
+    "connectorsList" : [0, 3, 0, 3],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web11.jpg",
+    "connectorsList" : [3, 0, 0, 3],
+    "capacity" : 2
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web12.jpg",
+    "connectorsList" : [1, 0, 2, 0],
+    "capacity" : 3
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web13.jpg",
+    "connectorsList" : [1, 1, 2, 0],
+    "capacity" : 3
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web14.jpg",
+    "connectorsList" : [2, 0, 0, 0],
+    "capacity" : 3
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web15.jpg",
+    "connectorsList" : [2, 1, 0, 0],
+    "capacity" : 3
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web16.jpg",
+    "connectorsList" : [2, 2, 1, 0],
+    "capacity" : 3
+  },
+  {
+    "tileType" : "Batteries",
+    "fileName" : "GT-new_tiles_16_for web17.jpg",
+    "connectorsList" : [0, 0, 0, 1],
+    "capacity" : 3
+  },
+
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web149.jpg",
+    "connectorsList" : [0, 1, 3, 1]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web150.jpg",
+    "connectorsList" : [1, 0, 1, 1]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web151.jpg",
+    "connectorsList" : [2, 1, 2, 1]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web152.jpg",
+    "connectorsList" : [0, 0, 3, 2]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web153.jpg",
+    "connectorsList" : [0, 2, 2, 2]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web154.jpg",
+    "connectorsList" : [1, 2, 1, 2]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web155.jpg",
+    "connectorsList" : [0, 0, 1, 3]
+  },
+  {
+    "tileType" : "Shield",
+    "fileName" : "GT-new_tiles_16_for web156.jpg",
+    "connectorsList" : [0, 2, 2, 3]
+  },
+
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web53.jpg",
+    "connectorsList" : [3, 3, 0, 1]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web54.jpg",
+    "connectorsList" : [1, 3, 0, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web55.jpg",
+    "connectorsList" : [1, 3, 1, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web56.jpg",
+    "connectorsList" : [1, 3, 2, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web57.jpg",
+    "connectorsList" : [2, 3, 0, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web58.jpg",
+    "connectorsList" : [3, 1, 2, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web59.jpg",
+    "connectorsList" : [3, 2, 0, 3]
+  },
+  {
+    "tileType" : "Structural",
+    "fileName" : "GT-new_tiles_16_for web60.jpg",
+    "connectorsList" : [3, 2, 2, 3]
+  },
+
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web71.jpg",
+    "connectorsList" : [0,3,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web72.jpg",
+    "connectorsList" : [0,3,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web73.jpg",
+    "connectorsList" : [1,0,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web74.jpg",
+    "connectorsList" : [1,0,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web75.jpg",
+    "connectorsList" : [1,1,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web76.jpg",
+    "connectorsList" : [2,0,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web77.jpg",
+    "connectorsList" : [2,0,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web78.jpg",
+    "connectorsList" : [2,3,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web79.jpg",
+    "connectorsList" : [3,2,0,0],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web80.jpg",
+    "connectorsList" : [0,3,0,1],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web81.jpg",
+    "connectorsList" : [2,1,0,1],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web82.jpg",
+    "connectorsList" : [3,0,0,1],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web83.jpg",
+    "connectorsList" : [3,2,0,1],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web84.jpg",
+    "connectorsList" : [0,1,0,2],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web85.jpg",
+    "connectorsList" : [1,2,0,2],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web86.jpg",
+    "connectorsList" : [2,0,0,2],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web87.jpg",
+    "connectorsList" : [3,1,0,2],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web88.jpg",
+    "connectorsList" : [0,0,0,3],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web89.jpg",
+    "connectorsList" : [0,0,0,3],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web90.jpg",
+    "connectorsList" : [0,2,0,3],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web91.jpg",
+    "connectorsList" : [1,0,0,3],
+    "doubleEngine" : false
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web92.jpg",
+    "connectorsList" : [1,0,0,0],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web93.jpg",
+    "connectorsList" : [1,3,0,0],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web94.jpg",
+    "connectorsList" : [2,0,0,0],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web95.jpg",
+    "connectorsList" : [3,1,0,0],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web96.jpg",
+    "connectorsList" : [1,1,0,1],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web97.jpg",
+    "connectorsList" : [2,2,0,2],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web98.jpg",
+    "connectorsList" : [3,0,0,2],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web99.jpg",
+    "connectorsList" : [0,2,0,2],
+    "doubleEngine" : true
+  },
+  {
+    "tileType" : "Engine",
+    "fileName" : "GT-new_tiles_16_for web100.jpg",
+    "connectorsList" : [2,0,0,3],
+    "doubleEngine" : true
+  },
+
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web137.jpg",
+    "connectorsList" : [1, 1, 0, 1],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web138.jpg",
+    "connectorsList" : [2, 1, 0, 1],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web139.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web140.jpg",
+    "connectorsList" : [0, 0, 1, 3],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web141.jpg",
+    "connectorsList" : [0, 0, 2, 3],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web142.jpg",
+    "connectorsList" : [1, 0, 0, 3],
+    "brownAlienSupport" : true
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web143.jpg",
+    "connectorsList" : [1, 2, 0, 2],
+    "brownAlienSupport" : false
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web144.jpg",
+    "connectorsList" : [2, 2, 0, 2],
+    "brownAlienSupport" : false
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web145.jpg",
+    "connectorsList" : [0, 0, 0, 3],
+    "brownAlienSupport" : false
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web146.jpg",
+    "connectorsList" : [0, 0, 2, 3],
+    "brownAlienSupport" : false
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web147.jpg",
+    "connectorsList" : [0, 1, 0, 3],
+    "brownAlienSupport" : false
+  },
+  {
+    "tileType" : "AlienSupportSystem",
+    "fileName" : "GT-new_tiles_16_for web148.jpg",
+    "connectorsList" : [2, 0, 0, 3],
+    "brownAlienSupport" : false
+  },
+
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web35.jpg",
+    "connectorsList" : [0, 0, 3, 1]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web36.jpg",
+    "connectorsList" : [1, 2, 1, 1]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web37.jpg",
+    "connectorsList" : [1, 2, 2, 1]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web38.jpg",
+    "connectorsList" : [2, 0, 0, 1 ]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web39.jpg",
+    "connectorsList" : [2, 1, 0, 1]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web40.jpg",
+    "connectorsList" : [2, 1, 2, 1]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web41.jpg",
+    "connectorsList" : [0, 1, 3, 2]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web42.jpg",
+    "connectorsList" : [1, 2, 0, 2]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web43.jpg",
+    "connectorsList" : [2, 1, 2, 2]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web44.jpg",
+    "connectorsList" : [3, 0, 0, 2]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web45.jpg",
+    "connectorsList" : [0, 1, 0, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web46.jpg",
+    "connectorsList" : [0, 1, 1, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web47.jpg",
+    "connectorsList" : [0, 2, 0, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web48.jpg",
+    "connectorsList" : [1, 0, 1, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web49.jpg",
+    "connectorsList" : [1, 0, 2, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web50.jpg",
+    "connectorsList" : [2, 0, 2, 3]
+  },
+  {
+    "tileType" : "Cabin",
+    "fileName" : "GT-new_tiles_16_for web51.jpg",
+    "connectorsList" : [2, 2, 0, 3]
+  }
+]

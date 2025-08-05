@@ -1,0 +1,429 @@
+[
+  {
+    "level": 0,
+    "cards": [
+      {
+        "cardType" : "Smugglers",
+        "fileName": "GT-cards_I_IT_012.jpg",
+        "cargoPenalty": 2,
+        "cargoPrize": [
+          "y",
+          "g",
+          "b"
+        ],
+        "flightDayLoss": 1,
+        "requiredFirePower": 4
+      },
+
+      {
+        "cardType" : "Stardust",
+        "fileName": "GT-cards_I_IT_014.jpg"
+      },
+
+      {
+        "cardType" : "OpenSpace",
+        "fileName" : "GT-cards_I_IT_015.jpg"
+      },
+
+      {
+        "cardType" : "MeteorSwarm",
+        "fileName" : "GT-cards_I_IT_019.jpg",
+        "meteorList" : [
+          {
+            "size" : "BIG",
+            "direction" : "NORTH"
+          },
+          {
+            "size" : "SMALL",
+            "direction" : "LEFT"
+          },
+          {
+            "size" : "SMALL",
+            "direction" : "RIGHT"
+          }
+        ]
+      },
+
+      {
+        "cardType" : "Planet",
+        "fileName" : "GT-cards_I_IT_0113.jpg",
+        "planets" : [
+          ["r", "r"],
+          ["r", "b", "b"],
+          ["y"]
+        ],
+        "flightDayLoss" : 2
+      },
+      {
+        "cardType" : "AbandonedShip",
+        "fileName" : "GT-cards_I_IT_0118.jpg",
+        "creditReward" : 4,
+        "flightDayLoss" : 1,
+        "crewLoss" : 3
+      },
+
+      {
+        "cardType" : "AbandonedStation",
+        "fileName" : "GT-cards_I_IT_0119.jpg",
+        "cargoPrize" : ["y", "g"],
+        "flightDayLoss" : 1,
+        "requiredCrew" : 5
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "cards": [
+        {
+          "cardType" : "MeteorSwarm",
+          "fileName" : "GT-cards_I_IT_0110.jpg",
+          "meteorList" : [
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "LEFT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "RIGHT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "SOUTH"
+            }
+          ]
+        },
+        {
+          "cardType" : "MeteorSwarm",
+          "fileName" : "GT-cards_I_IT_0111.jpg",
+          "meteorList" : [
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            }
+          ]
+        },
+
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_I_IT_0112.jpg",
+          "planets" :   [
+            ["r", "g", "b", "b", "b"],
+            ["r", "y", "b"],
+            ["r", "b", "b", "b"],
+            ["r", "g"]
+          ],
+          "flightDayLoss" : 3
+        },
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_I_IT_0114.jpg",
+          "planets" :   [
+            ["y", "g", "b", "b"],
+            ["y", "y"]
+          ],
+          "flightDayLoss" : 3
+        },
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_I_IT_0115.jpg",
+          "planets" :   [
+            ["g", "g"],
+            ["y"],
+            ["b", "b", "b"]
+          ],
+          "flightDayLoss" : 1
+        },
+
+        {
+          "cardType" : "AbandonedShip",
+          "fileName" : "GT-cards_I_IT_0117.jpg",
+          "creditReward" : 3,
+          "flightDayLoss" : 1,
+          "crewLoss" : 2
+        },
+
+        {
+          "cardType" : "AbandonedStation",
+          "fileName" : "GT-cards_I_IT_0120.jpg",
+          "cargoPrize" : ["r", "r"],
+          "flightDayLoss" : 1,
+          "requiredCrew" : 6
+        },
+
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_I_IT_016.jpg"
+        },
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_I_IT_017.jpg"
+        },
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_I_IT_018.jpg"
+        },
+
+        {
+          "cardType" : "Enslavers",
+          "fileName" : "GT-cards_I_IT_01.jpg",
+          "crewPenalty" : 3,
+          "creditPrize" : 5,
+          "flightDayLoss" : 1,
+          "requiredFirePower" : 6
+        },
+
+        {
+          "cardType" : "Pirates",
+          "fileName" : "GT-cards_I_IT_013.jpg",
+          "shotPenalty" :  [
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" :  "BIG",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            }
+          ],
+          "creditPrize" : 4,
+          "flightDayLoss" : 1,
+          "requiredFirePower" : 5
+        }
+      ]
+    },
+
+  {
+    "level" : 2,
+    "cards" : [
+        {
+          "cardType" : "Stardust",
+          "fileName": "GT-cards_II_IT_014.jpg"
+        },
+
+        {
+          "cardType" : "Smugglers",
+          "fileName" : "GT-cards_II_IT_012.jpg",
+          "cargoPenalty" : 3,
+          "cargoPrize" : ["r", "y", "y"],
+          "flightDayLoss" : 1,
+          "requiredFirePower": 8
+        },
+
+        {
+          "cardType" : "Epidemic",
+          "fileName" : "GT-cards_II_IT_015.jpg"
+        },
+
+        {
+          "cardType" : "MeteorSwarm",
+          "fileName" : "GT-cards_II_IT_019.jpg",
+          "meteorList" : [
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "BIG",
+              "direction" : "LEFT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "LEFT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "LEFT"
+            }
+
+          ]
+        },
+        {
+          "cardType" : "MeteorSwarm",
+          "fileName" : "GT-cards_II_IT_0110.jpg",
+          "meteorList" : [
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "SOUTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "SOUTH"
+            }
+          ]
+        },
+        {
+          "cardType" : "MeteorSwarm",
+          "fileName" : "GT-cards_II_IT_0111.jpg",
+          "meteorList" : [
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "BIG",
+              "direction" : "RIGHT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "RIGHT"
+            },
+            {
+              "size" : "SMALL",
+              "direction" : "RIGHT"
+            }
+          ]
+        },
+
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_II_IT_0112.jpg",
+          "planets" :   [
+            ["r", "r", "r", "y"],
+            ["r", "r", "g", "g"],
+            ["r", "b", "b", "b", "b"]
+          ],
+          "flightDayLoss" : 4
+        },
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_II_IT_0113.jpg",
+          "planets" :   [
+            ["r", "r"],
+            ["g", "g", "g", "g"]
+          ],
+          "flightDayLoss" : 3
+        },
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_II_IT_0114.jpg",
+          "planets" :   [
+            ["r", "y"],
+            ["y", "g", "b"],
+            ["g", "g"],
+            ["y"]
+          ],
+          "flightDayLoss" : 2
+        },
+        {
+          "cardType" : "Planet",
+          "fileName" : "GT-cards_II_IT_0115.jpg",
+          "planets" :   [
+            ["g", "g", "g", "g"],
+            ["y", "y"],
+            ["b", "b", "b", "b"]
+          ],
+          "flightDayLoss" : 3
+        },
+
+        {
+          "cardType" : "AbandonedShip",
+          "fileName" : "GT-cards_II_IT_0117.jpg",
+          "creditReward" : 6,
+          "flightDayLoss" : 1,
+          "crewLoss" : 4
+        },
+        {
+          "cardType" : "AbandonedShip",
+          "fileName" : "GT-cards_II_IT_0118.jpg",
+          "creditReward" : 8,
+          "flightDayLoss" : 2,
+          "crewLoss" : 5
+        },
+
+        {
+          "cardType" : "AbandonedStation",
+          "fileName" : "GT-cards_II_IT_0119.jpg",
+          "cargoPrize" : ["r", "y"],
+          "flightDayLoss" : 1,
+          "requiredCrew" : 7
+        },
+        {
+          "cardType" : "AbandonedStation",
+          "fileName" : "GT-cards_II_IT_0120.jpg",
+          "cargoPrize" : ["y", "y", "g"],
+          "flightDayLoss" : 2,
+          "requiredCrew" : 8
+        },
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_II_IT_016.jpg"
+        },
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_II_IT_017.jpg"
+        },
+        {
+          "cardType" : "OpenSpace",
+          "fileName" : "GT-cards_II_IT_018.jpg"
+        },
+
+        {
+          "cardType" : "Enslavers",
+          "fileName" : "GT-cards_II_IT_01.jpg",
+          "crewPenalty" : 4,
+          "creditPrize" : 8,
+          "flightDayLoss" : 2,
+          "requiredFirePower" : 7
+        },
+
+        {
+          "cardType" : "Pirates",
+          "fileName" : "GT-cards_II_IT_013.jpg",
+          "shotPenalty" :  [
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            },
+            {
+              "size" :  "SMALL",
+              "direction" : "NORTH"
+            },
+            {
+              "size" : "BIG",
+              "direction" : "NORTH"
+            }
+          ],
+          "creditPrize" : 7,
+          "flightDayLoss" : 2,
+          "requiredFirePower" : 6
+        }
+      ]
+    }
+
+]
